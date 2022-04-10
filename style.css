@@ -1,0 +1,15 @@
+#background_image{
+    background-image: url("backg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    background-color: aliceblue;
+    margin: 20px;
+}
+
+#ranger_canvas{
+    border: ridge gray 5px;
+    background-color: white;
+}
